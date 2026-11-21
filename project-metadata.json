@@ -1,0 +1,23 @@
+{
+  "id": "proj_1795273574137_59efde",
+  "targetUrl": "https://olymptrade.com/platform",
+  "domain": "olymptrade.com",
+  "title": "Olymptrade login – Access your trading account",
+  "status": "compared",
+  "createdAt": "2026-11-21T15:06:14.137Z",
+  "updatedAt": "2026-11-21T15:38:16.122Z",
+  "exportedAt": "2026-11-21T15:50:20.253Z",
+  "counts": {
+    "crawledPages": 5,
+    "reconstructedPages": 5,
+    "exportedHtmlPages": 5,
+    "reusableComponents": 4,
+    "assetsDownloaded": 100,
+    "inlineSvgs": 129,
+    "screenshots": 21,
+    "interceptedRequests": 134,
+    "classifiedFeatures": 4,
+    "visualComparisons": 1,
+    "mockRoutes": 4
+  }
+}

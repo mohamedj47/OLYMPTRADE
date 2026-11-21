@@ -1,0 +1,79 @@
+[
+  {
+    "id": "feat_f88185",
+    "name": "Navigation & Responsive Menus",
+    "category": "A",
+    "categoryLabel": "A · Fully Reproducible Frontend Functionality",
+    "pagePaths": [
+      "/regulation",
+      "/about",
+      "/statuses",
+      "/support"
+    ],
+    "selectors": [
+      "nav",
+      "mobile-menu-panel"
+    ],
+    "implementationStatus": "rebuilt",
+    "requirements": [],
+    "envVarsRequired": [],
+    "endpointPattern": ""
+  },
+  {
+    "id": "feat_33986f",
+    "name": "Contact Inquiry Form",
+    "category": "B",
+    "categoryLabel": "B · Requires Backend Persistence / Server Logic",
+    "pagePaths": [
+      "/regulation"
+    ],
+    "selectors": [
+      "form"
+    ],
+    "implementationStatus": "interface_generated",
+    "requirements": [
+      "Form validation",
+      "POST submission"
+    ],
+    "envVarsRequired": [],
+    "endpointPattern": ""
+  },
+  {
+    "id": "feat_d73a71",
+    "name": "Intercom Messenger Integration",
+    "category": "C",
+    "categoryLabel": "C · Requires Authorized External API",
+    "pagePaths": [
+      "/platform",
+      "/regulation",
+      "/about"
+    ],
+    "selectors": [
+      ".intercom-lightweight-app"
+    ],
+    "implementationStatus": "interface_generated",
+    "requirements": [
+      "App ID",
+      "Secure Ping"
+    ],
+    "envVarsRequired": [],
+    "endpointPattern": ""
+  },
+  {
+    "id": "feat_251f4d",
+    "name": "Trading Platform Topology Engine",
+    "category": "D",
+    "categoryLabel": "D · Not Reproducible from Public Information",
+    "pagePaths": [
+      "/platform"
+    ],
+    "selectors": [],
+    "implementationStatus": "documented_only",
+    "requirements": [
+      "Secure Auth Token",
+      "WebSocket access"
+    ],
+    "envVarsRequired": [],
+    "endpointPattern": ""
+  }
+]

@@ -1,0 +1,96 @@
+{
+  "designSystem": {
+    "brandName": "Olymptrade",
+    "primaryFont": "Nacelle, sans-serif",
+    "bodyFont": "system-ui, sans-serif",
+    "monoFont": "monospace",
+    "palette": {
+      "background": "#FFFFFF",
+      "surface": "#F8FAFC",
+      "textPrimary": "#0F172A",
+      "textMuted": "#64748B",
+      "accent": "#2563EB",
+      "accentContrast": "#FFFFFF",
+      "border": "#E2E8F0"
+    },
+    "typographyScale": [
+      {
+        "name": "h1",
+        "size": "56px",
+        "weight": "600"
+      },
+      {
+        "name": "h2",
+        "size": "40px",
+        "weight": "600"
+      },
+      {
+        "name": "body",
+        "size": "18px",
+        "weight": "400"
+      }
+    ],
+    "spacingScale": [],
+    "radii": [],
+    "breakpoints": [],
+    "cssVariables": ":root {\n  --clone-bg: #FFFFFF;\n  --clone-surface: #F8FAFC;\n  --clone-text: #0F172A;\n  --clone-text-muted: #64748B;\n  --clone-accent: #2563EB;\n  --clone-accent-contrast: #FFFFFF;\n  --clone-border: #E2E8F0;\n  --clone-font-display: Nacelle, sans-serif;\n  --clone-font-body: system-ui, sans-serif;\n  --clone-font-mono: monospace;\n}"
+  },
+  "pageSpecs": [
+    {
+      "pageId": "page_0",
+      "path": "/platform",
+      "title": "Olymptrade login – Access your trading account",
+      "templateGroup": "Unique Layout (/platform)",
+      "purpose": "Trading dashboard login",
+      "sections": [],
+      "navigationBehavior": "Standard internal link routing across cloned pages.",
+      "responsiveNotes": [],
+      "interactiveBehaviors": []
+    },
+    {
+      "pageId": "page_1",
+      "path": "/regulation",
+      "title": "Guarantees – Olymptrade",
+      "templateGroup": "Shared Template #2 (4 pages)",
+      "purpose": "Regulatory compliance and licensing information",
+      "sections": [],
+      "navigationBehavior": "Standard internal link routing across cloned pages.",
+      "responsiveNotes": [],
+      "interactiveBehaviors": []
+    },
+    {
+      "pageId": "page_2",
+      "path": "/about",
+      "title": "About Olymptrade – Trusted online broker",
+      "templateGroup": "Shared Template #2 (4 pages)",
+      "purpose": "Company information and platform transparency",
+      "sections": [],
+      "navigationBehavior": "Standard internal link routing across cloned pages.",
+      "responsiveNotes": [],
+      "interactiveBehaviors": []
+    },
+    {
+      "pageId": "page_3",
+      "path": "/statuses",
+      "title": "Statuses – Olymptrade",
+      "templateGroup": "Shared Template #2 (4 pages)",
+      "purpose": "Loyalty program details",
+      "sections": [],
+      "navigationBehavior": "Standard internal link routing across cloned pages.",
+      "responsiveNotes": [],
+      "interactiveBehaviors": []
+    },
+    {
+      "pageId": "page_4",
+      "path": "/support",
+      "title": "Help center and contact – Olymptrade",
+      "templateGroup": "Shared Template #2 (4 pages)",
+      "purpose": "Help center and contact portal",
+      "sections": [],
+      "navigationBehavior": "Standard internal link routing across cloned pages.",
+      "responsiveNotes": [],
+      "interactiveBehaviors": []
+    }
+  ],
+  "reconstructedDesignTokensCss": ":root {--clone-bg: #FFFFFF; --clone-surface: #F8FAFC; --clone-text: #0F172A; --clone-text-muted: #64748B; --clone-accent: #2563EB; --clone-accent-contrast: #FFFFFF; --clone-border: #E2E8F0; --clone-font-display: Nacelle, sans-serif; --clone-font-body: system-ui, sans-serif; --clone-font-mono: monospace; --clone-radius-lg: 12px; --clone-shadow-sm: 0 1px 3px rgba(0,0,0,0.1); --clone-spacing-base: 8px;}"
+}

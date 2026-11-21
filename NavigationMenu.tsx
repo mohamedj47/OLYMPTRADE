@@ -1,0 +1,1 @@
+export const NavigationMenu = ({ items }) => (<aside className="w-64 bg-[--clone-surface] p-4">{items.map(i => <a href={i.href} className="block py-2 hover:text-[--clone-accent]">{i.text}</a>)}</aside>)

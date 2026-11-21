@@ -1,0 +1,1 @@
+export const Header = ({ links }) => (<header className="flex items-center justify-between p-4 border-b border-[--clone-border]"><div className="font-bold">Olymptrade</div><nav className="hidden md:flex gap-6">{links.map(l => <a key={l.href} href={l.href} className="text-[--clone-text]">{l.text}</a>)}</nav></header>)

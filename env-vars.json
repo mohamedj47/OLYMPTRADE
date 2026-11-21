@@ -1,0 +1,14 @@
+[
+  {
+    "key": "INTERCOM_APP_ID",
+    "exampleValue": "",
+    "category": "external_api",
+    "requiredForFeature": "Intercom Messenger Integration"
+  },
+  {
+    "key": "API_BASE_URL",
+    "exampleValue": "",
+    "category": "external_api",
+    "requiredForFeature": "Platform Data Fetching"
+  }
+]

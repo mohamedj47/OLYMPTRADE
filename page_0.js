@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded', () => { document.body.style.backgroundColor = '#F4F4F4'; const layout = document.querySelector('.DefaultLayout__host___HghJH'); if (layout) layout.style.backgroundColor = '#F4F4F4'; });

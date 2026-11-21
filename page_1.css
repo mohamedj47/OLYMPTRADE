@@ -1,0 +1,1 @@
+.mobile-menu-panel { display: none; } .mobile-menu-panel.cf-open { display: block; position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 1000; background: var(--surface-canvas); } .dropdown-menu { display: none; } .dropdown-menu.cf-open { display: block; } .button[aria-expanded='true'] { opacity: 0.8; }

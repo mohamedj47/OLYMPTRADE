@@ -1,0 +1,68 @@
+[
+  {
+    "pageId": "page_0",
+    "path": "/platform",
+    "overallSimilarityScore": 99.66,
+    "comparedAt": "2026-11-21T15:38:16.074Z",
+    "viewports": {
+      "desktop": {
+        "viewport": "desktop",
+        "width": 1440,
+        "height": 900,
+        "visualSimilarityScore": 99.98,
+        "mismatchedPixels": 288,
+        "totalPixels": 1296000,
+        "originalScreenshotUrl": "/screenshots/page_0_desktop.png",
+        "reconstructedScreenshotUrl": "/screenshots/recon_page_0_desktop.png",
+        "diffImageUrl": "/screenshots/diff_page_0_desktop.png",
+        "layoutDifferences": [],
+        "missingImages": [],
+        "fontDifferences": [],
+        "colorDifferences": [],
+        "spacingDifferences": [],
+        "missingSections": [],
+        "brokenLinks": [],
+        "nonfunctionalInteractions": []
+      },
+      "tablet": {
+        "viewport": "tablet",
+        "width": 768,
+        "height": 1024,
+        "visualSimilarityScore": 99.9,
+        "mismatchedPixels": 816,
+        "totalPixels": 786432,
+        "originalScreenshotUrl": "/screenshots/page_0_tablet.png",
+        "reconstructedScreenshotUrl": "/screenshots/recon_page_0_tablet.png",
+        "diffImageUrl": "/screenshots/diff_page_0_tablet.png",
+        "layoutDifferences": [],
+        "missingImages": [],
+        "fontDifferences": [],
+        "colorDifferences": [],
+        "spacingDifferences": [],
+        "missingSections": [],
+        "brokenLinks": [],
+        "nonfunctionalInteractions": []
+      },
+      "mobile": {
+        "viewport": "mobile",
+        "width": 390,
+        "height": 844,
+        "visualSimilarityScore": 99.09,
+        "mismatchedPixels": 2992,
+        "totalPixels": 329160,
+        "originalScreenshotUrl": "/screenshots/page_0_mobile.png",
+        "reconstructedScreenshotUrl": "/screenshots/recon_page_0_mobile.png",
+        "diffImageUrl": "/screenshots/diff_page_0_mobile.png",
+        "layoutDifferences": [],
+        "missingImages": [],
+        "fontDifferences": [],
+        "colorDifferences": [],
+        "spacingDifferences": [],
+        "missingSections": [],
+        "brokenLinks": [],
+        "nonfunctionalInteractions": []
+      }
+    },
+    "correctionSummary": []
+  }
+]

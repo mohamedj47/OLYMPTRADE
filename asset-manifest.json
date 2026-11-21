@@ -1,0 +1,1663 @@
+{
+  "projectId": "proj_1795273574137_59efde",
+  "generatedAt": "2026-11-21T15:07:04.262Z",
+  "totalDiscovered": 100,
+  "downloadedCount": 100,
+  "failedCount": 0,
+  "skippedCount": 0,
+  "totalBytes": 1151810,
+  "byCategory": {
+    "images": 34,
+    "logos": 30,
+    "icons": 23,
+    "fonts": 2,
+    "backgrounds": 0,
+    "videos": 0,
+    "css": 11,
+    "other": 0
+  },
+  "items": [
+    {
+      "id": "asset_6e35a06d",
+      "category": "icons",
+      "originalUrl": "https://cfcdn.olymptrade.com/assets1/flags/sized/GB.b98f7148a629f5d254d604053a3e55d8.svg",
+      "filename": "GB.b98f7148a629f5d254d604053a3e55d8.svg",
+      "localRelativePath": "assets/icons/GB.b98f7148a629f5d254d604053a3e55d8.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/icons/GB.b98f7148a629f5d254d604053a3e55d8.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 1842,
+      "width": 24,
+      "height": 24,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/platform"
+      ]
+    },
+    {
+      "id": "asset_88f771c9",
+      "category": "logos",
+      "originalUrl": "inline-svg://logo-cda32e3c7e",
+      "filename": "brand_logo_2.svg",
+      "localRelativePath": "assets/logos/brand_logo_2.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/brand_logo_2.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 386,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/platform"
+      ]
+    },
+    {
+      "id": "asset_7150f7b3",
+      "category": "logos",
+      "originalUrl": "inline-svg://logo-5d6a160945",
+      "filename": "brand_logo_3.svg",
+      "localRelativePath": "assets/logos/brand_logo_3.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/brand_logo_3.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 5062,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/platform"
+      ]
+    },
+    {
+      "id": "asset_37e5442e",
+      "category": "logos",
+      "originalUrl": "inline-svg://logo-4e02c63686",
+      "filename": "brand_logo_4.svg",
+      "localRelativePath": "assets/logos/brand_logo_4.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/brand_logo_4.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 904,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/platform"
+      ]
+    },
+    {
+      "id": "asset_0d1f9992",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-b8280e1d85",
+      "filename": "icon_5.svg",
+      "localRelativePath": "assets/icons/icon_5.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/icons/icon_5.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 1240,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/platform"
+      ]
+    },
+    {
+      "id": "asset_763db425",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-a3130fa497",
+      "filename": "icon_6.svg",
+      "localRelativePath": "assets/icons/icon_6.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/icons/icon_6.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 360,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/platform"
+      ]
+    },
+    {
+      "id": "asset_168236a4",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-5d6a160945",
+      "filename": "icon_7.svg",
+      "localRelativePath": "assets/icons/icon_7.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/icons/icon_7.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 5062,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/platform"
+      ]
+    },
+    {
+      "id": "asset_473cd3b7",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-7e28db3884",
+      "filename": "icon_8.svg",
+      "localRelativePath": "assets/icons/icon_8.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/icons/icon_8.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 596,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/platform"
+      ]
+    },
+    {
+      "id": "asset_9a357d07",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-8944cba6d4",
+      "filename": "icon_9.svg",
+      "localRelativePath": "assets/icons/icon_9.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/icons/icon_9.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 326,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/platform"
+      ]
+    },
+    {
+      "id": "asset_529073dc",
+      "category": "fonts",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/nacelle-regular.hzaQAp11.woff2",
+      "filename": "nacelle-regular.hzaQAp11.woff2",
+      "localRelativePath": "assets/fonts/nacelle-regular.hzaQAp11.woff2",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/fonts/nacelle-regular.hzaQAp11.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 28716,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_3919e698",
+      "category": "fonts",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/nacelle-semibold.CC5kPJKo.woff2",
+      "filename": "nacelle-semibold.CC5kPJKo.woff2",
+      "localRelativePath": "assets/fonts/nacelle-semibold.CC5kPJKo.woff2",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/fonts/nacelle-semibold.CC5kPJKo.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 36284,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_ad6be559",
+      "category": "logos",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/en.Cy-6fBTa.svg",
+      "filename": "en.Cy-6fBTa.svg",
+      "localRelativePath": "assets/logos/en.Cy-6fBTa.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/en.Cy-6fBTa.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 1495,
+      "width": 24,
+      "height": 24,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_7ecf86fe",
+      "category": "logos",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/ar.CfGkigCA.svg",
+      "filename": "ar.CfGkigCA.svg",
+      "localRelativePath": "assets/logos/ar.CfGkigCA.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/ar.CfGkigCA.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 556,
+      "width": 24,
+      "height": 24,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_81bd27bb",
+      "category": "logos",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/es.By4hjAPd.svg",
+      "filename": "es.By4hjAPd.svg",
+      "localRelativePath": "assets/logos/es.By4hjAPd.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/es.By4hjAPd.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 3530,
+      "width": 24,
+      "height": 24,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_6521828b",
+      "category": "logos",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/fr.ZsZvlqkP.svg",
+      "filename": "fr.ZsZvlqkP.svg",
+      "localRelativePath": "assets/logos/fr.ZsZvlqkP.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/fr.ZsZvlqkP.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 369,
+      "width": 24,
+      "height": 24,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_320400aa",
+      "category": "logos",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/hi.DMoSns1L.svg",
+      "filename": "hi.DMoSns1L.svg",
+      "localRelativePath": "assets/logos/hi.DMoSns1L.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/hi.DMoSns1L.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 1888,
+      "width": 24,
+      "height": 24,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_e3219e5b",
+      "category": "logos",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/pk.Y8DlrQ4t.svg",
+      "filename": "pk.Y8DlrQ4t.svg",
+      "localRelativePath": "assets/logos/pk.Y8DlrQ4t.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/pk.Y8DlrQ4t.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 1598,
+      "width": 24,
+      "height": 24,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_7ddb0c5f",
+      "category": "logos",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/id.CZUATetn.svg",
+      "filename": "id.CZUATetn.svg",
+      "localRelativePath": "assets/logos/id.CZUATetn.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/id.CZUATetn.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 310,
+      "width": 24,
+      "height": 24,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_8f90b6b9",
+      "category": "logos",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/ko.C8lRHMI1.svg",
+      "filename": "ko.C8lRHMI1.svg",
+      "localRelativePath": "assets/logos/ko.C8lRHMI1.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/ko.C8lRHMI1.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 3147,
+      "width": 24,
+      "height": 24,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_9c0bed2f",
+      "category": "logos",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/ms.BD4V4AfR.svg",
+      "filename": "ms.BD4V4AfR.svg",
+      "localRelativePath": "assets/logos/ms.BD4V4AfR.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/ms.BD4V4AfR.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 2130,
+      "width": 24,
+      "height": 24,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_46f0a77c",
+      "category": "logos",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/pt.CdBqwPk6.svg",
+      "filename": "pt.CdBqwPk6.svg",
+      "localRelativePath": "assets/logos/pt.CdBqwPk6.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/pt.CdBqwPk6.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 582,
+      "width": 24,
+      "height": 24,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_de180bc9",
+      "category": "logos",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/ru.XucMH9OX.svg",
+      "filename": "ru.XucMH9OX.svg",
+      "localRelativePath": "assets/logos/ru.XucMH9OX.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/ru.XucMH9OX.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 367,
+      "width": 24,
+      "height": 24,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_7b9161f5",
+      "category": "logos",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/th.BoCbMcZK.svg",
+      "filename": "th.BoCbMcZK.svg",
+      "localRelativePath": "assets/logos/th.BoCbMcZK.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/th.BoCbMcZK.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 698,
+      "width": 24,
+      "height": 24,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_a34265f0",
+      "category": "logos",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/tr.UOhrAyY9.svg",
+      "filename": "tr.UOhrAyY9.svg",
+      "localRelativePath": "assets/logos/tr.UOhrAyY9.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/tr.UOhrAyY9.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 838,
+      "width": 24,
+      "height": 24,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_ebf60e7b",
+      "category": "logos",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/vi.BVJACn2v.svg",
+      "filename": "vi.BVJACn2v.svg",
+      "localRelativePath": "assets/logos/vi.BVJACn2v.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/vi.BVJACn2v.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 519,
+      "width": 24,
+      "height": 24,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_9f9a25a3",
+      "category": "logos",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/tw.BXLStF6c.svg",
+      "filename": "tw.BXLStF6c.svg",
+      "localRelativePath": "assets/logos/tw.BXLStF6c.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/tw.BXLStF6c.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 1385,
+      "width": 24,
+      "height": 24,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_032e1439",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/finacom.NY71UH9K_Z1kXTWq.avif",
+      "filename": "finacom.NY71UH9K_Z1kXTWq.avif",
+      "localRelativePath": "assets/images/finacom.NY71UH9K_Z1kXTWq.avif",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/finacom.NY71UH9K_Z1kXTWq.avif",
+      "mimeType": "image/avif",
+      "sizeBytes": 4605,
+      "width": 180,
+      "height": 180,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_fa5c5a6e",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/compensation.BmQqNjLK_1OrsMW.avif",
+      "filename": "compensation.BmQqNjLK_1OrsMW.avif",
+      "localRelativePath": "assets/images/compensation.BmQqNjLK_1OrsMW.avif",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/compensation.BmQqNjLK_1OrsMW.avif",
+      "mimeType": "image/avif",
+      "sizeBytes": 3608,
+      "width": 140,
+      "height": 192,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_5aab2d7c",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/verifymytrade.B-HZriZb_Ltcnq.avif",
+      "filename": "verifymytrade.B-HZriZb_Ltcnq.avif",
+      "localRelativePath": "assets/images/verifymytrade.B-HZriZb_Ltcnq.avif",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/verifymytrade.B-HZriZb_Ltcnq.avif",
+      "mimeType": "image/avif",
+      "sizeBytes": 4462,
+      "width": 221,
+      "height": 192,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_a0ba01d8",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/vanuatu.B3ERRJAg_acqKY.avif",
+      "filename": "vanuatu.B3ERRJAg_acqKY.avif",
+      "localRelativePath": "assets/images/vanuatu.B3ERRJAg_acqKY.avif",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/vanuatu.B3ERRJAg_acqKY.avif",
+      "mimeType": "image/avif",
+      "sizeBytes": 2464,
+      "width": 210,
+      "height": 192,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_44021d04",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/fairness.DNLCKdAX_Z24LIWP.avif",
+      "filename": "fairness.DNLCKdAX_Z24LIWP.avif",
+      "localRelativePath": "assets/images/fairness.DNLCKdAX_Z24LIWP.avif",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/fairness.DNLCKdAX_Z24LIWP.avif",
+      "mimeType": "image/avif",
+      "sizeBytes": 4119,
+      "width": 164,
+      "height": 192,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_c97ac953",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/bg-regulation.GJ_bcxiz_Z1bx9TJ.avif",
+      "filename": "bg-regulation.GJ_bcxiz_Z1bx9TJ.avif",
+      "localRelativePath": "assets/images/bg-regulation.GJ_bcxiz_Z1bx9TJ.avif",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/bg-regulation.GJ_bcxiz_Z1bx9TJ.avif",
+      "mimeType": "image/avif",
+      "sizeBytes": 40108,
+      "width": 1485,
+      "height": 705,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation"
+      ]
+    },
+    {
+      "id": "asset_e61ed50e",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/verify.8CAvPsS2_DgTfw.avif",
+      "filename": "verify.8CAvPsS2_DgTfw.avif",
+      "localRelativePath": "assets/images/verify.8CAvPsS2_DgTfw.avif",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/verify.8CAvPsS2_DgTfw.avif",
+      "mimeType": "image/avif",
+      "sizeBytes": 4328,
+      "width": 180,
+      "height": 180,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation"
+      ]
+    },
+    {
+      "id": "asset_a3dd2b54",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/fairness.kUbhpExc_1Tq02d.avif",
+      "filename": "fairness.kUbhpExc_1Tq02d.avif",
+      "localRelativePath": "assets/images/fairness.kUbhpExc_1Tq02d.avif",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/fairness.kUbhpExc_1Tq02d.avif",
+      "mimeType": "image/avif",
+      "sizeBytes": 4898,
+      "width": 180,
+      "height": 180,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation"
+      ]
+    },
+    {
+      "id": "asset_5d56ce08",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/finmarket.DkT9fJfP_1LlNHW.webp",
+      "filename": "finmarket.DkT9fJfP_1LlNHW.webp",
+      "localRelativePath": "assets/images/finmarket.DkT9fJfP_1LlNHW.webp",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/finmarket.DkT9fJfP_1LlNHW.webp",
+      "mimeType": "image/webp",
+      "sizeBytes": 14124,
+      "width": 0,
+      "height": 0,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation"
+      ]
+    },
+    {
+      "id": "asset_914feb0d",
+      "category": "icons",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/checkmark.Cuh7Ygx7.svg",
+      "filename": "checkmark.Cuh7Ygx7.svg",
+      "localRelativePath": "assets/icons/checkmark.Cuh7Ygx7.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/icons/checkmark.Cuh7Ygx7.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 481,
+      "width": 80,
+      "height": 80,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation"
+      ]
+    },
+    {
+      "id": "asset_8ccfdcb8",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/banner.Bq4zFx9X_15mkAG.webp",
+      "filename": "banner.Bq4zFx9X_15mkAG.webp",
+      "localRelativePath": "assets/images/banner.Bq4zFx9X_15mkAG.webp",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/banner.Bq4zFx9X_15mkAG.webp",
+      "mimeType": "image/webp",
+      "sizeBytes": 28942,
+      "width": 0,
+      "height": 0,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_822105a2",
+      "category": "logos",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/particles-default.Cob3IgPK_2lF27q.avif",
+      "filename": "particles-default.Cob3IgPK_2lF27q.avif",
+      "localRelativePath": "assets/logos/particles-default.Cob3IgPK_2lF27q.avif",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/particles-default.Cob3IgPK_2lF27q.avif",
+      "mimeType": "image/avif",
+      "sizeBytes": 4154,
+      "width": 1105,
+      "height": 806,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_ece57bdb",
+      "category": "logos",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/imagePopupDefault.DsxEtymm_nJ8Ad.avif",
+      "filename": "imagePopupDefault.DsxEtymm_nJ8Ad.avif",
+      "localRelativePath": "assets/logos/imagePopupDefault.DsxEtymm_nJ8Ad.avif",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/imagePopupDefault.DsxEtymm_nJ8Ad.avif",
+      "mimeType": "image/avif",
+      "sizeBytes": 26461,
+      "width": 1034,
+      "height": 960,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_451dabc9",
+      "category": "images",
+      "originalUrl": "https://bat.bing.net/action/0?ti=343066083&tm=gtm002&Ver=2&mid=f6a0652b-9e14-4070-a5cc-52636df4cecb&bo=2&uach=pv%3D10.0&pi=0&lg=en-US&sw=1440&sh=900&sc=24&nwd=1&tl=Guarantees%20%E2%80%93%20Olymptrade&p=https%3A%2F%2Folymptrade.com%2Fpages%2Fregulation%2F&r=&lt=1073&evt=pageLoad&sv=2&asc=D&cdb=AQAY&rn=182733",
+      "filename": "0.bin",
+      "localRelativePath": "assets/images/0.bin",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/0.bin",
+      "mimeType": "application/octet-stream",
+      "sizeBytes": 0,
+      "width": 0,
+      "height": 0,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation"
+      ]
+    },
+    {
+      "id": "asset_5612bcad",
+      "category": "logos",
+      "originalUrl": "inline-svg://logo-c2136be076",
+      "filename": "brand_logo_41.svg",
+      "localRelativePath": "assets/logos/brand_logo_41.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/brand_logo_41.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 121,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_2277e99c",
+      "category": "logos",
+      "originalUrl": "inline-svg://logo-61cf6d7cab",
+      "filename": "brand_logo_42.svg",
+      "localRelativePath": "assets/logos/brand_logo_42.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/brand_logo_42.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 205,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_db2c0336",
+      "category": "logos",
+      "originalUrl": "inline-svg://logo-37b30dc674",
+      "filename": "brand_logo_43.svg",
+      "localRelativePath": "assets/logos/brand_logo_43.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/brand_logo_43.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 94,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_3c658e68",
+      "category": "logos",
+      "originalUrl": "inline-svg://logo-3a278d9782",
+      "filename": "brand_logo_44.svg",
+      "localRelativePath": "assets/logos/brand_logo_44.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/brand_logo_44.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 92,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_23b646fa",
+      "category": "logos",
+      "originalUrl": "inline-svg://logo-96a6f53f62",
+      "filename": "brand_logo_45.svg",
+      "localRelativePath": "assets/logos/brand_logo_45.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/brand_logo_45.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 97,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_07db28f0",
+      "category": "logos",
+      "originalUrl": "inline-svg://logo-e59bc0cea0",
+      "filename": "brand_logo_46.svg",
+      "localRelativePath": "assets/logos/brand_logo_46.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/brand_logo_46.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 87,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_24d26c21",
+      "category": "logos",
+      "originalUrl": "inline-svg://logo-2d5a2c9626",
+      "filename": "brand_logo_47.svg",
+      "localRelativePath": "assets/logos/brand_logo_47.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/brand_logo_47.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 93,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_faaec042",
+      "category": "logos",
+      "originalUrl": "inline-svg://logo-f486eb0679",
+      "filename": "brand_logo_48.svg",
+      "localRelativePath": "assets/logos/brand_logo_48.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/brand_logo_48.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 87,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_817296af",
+      "category": "logos",
+      "originalUrl": "inline-svg://logo-b58802b508",
+      "filename": "brand_logo_49.svg",
+      "localRelativePath": "assets/logos/brand_logo_49.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/brand_logo_49.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 92,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_8c1e2e98",
+      "category": "logos",
+      "originalUrl": "inline-svg://logo-a95d2de1ca",
+      "filename": "brand_logo_50.svg",
+      "localRelativePath": "assets/logos/brand_logo_50.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/logos/brand_logo_50.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 107,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_e3572680",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-e0af84abeb",
+      "filename": "icon_51.svg",
+      "localRelativePath": "assets/icons/icon_51.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/icons/icon_51.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 112,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_478e4ebc",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-7cecb76999",
+      "filename": "icon_52.svg",
+      "localRelativePath": "assets/icons/icon_52.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/icons/icon_52.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 111,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_618b6d04",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-2950c56874",
+      "filename": "icon_53.svg",
+      "localRelativePath": "assets/icons/icon_53.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/icons/icon_53.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 112,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_2c85f8b7",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-ab1a7b37c0",
+      "filename": "icon_54.svg",
+      "localRelativePath": "assets/icons/icon_54.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/icons/icon_54.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 111,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_e03abba8",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-1d63877886",
+      "filename": "icon_55.svg",
+      "localRelativePath": "assets/icons/icon_55.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/icons/icon_55.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 110,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_b7356c10",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/bg.Ce0w8fIi_14QWtU.avif",
+      "filename": "bg.Ce0w8fIi_14QWtU.avif",
+      "localRelativePath": "assets/images/bg.Ce0w8fIi_14QWtU.avif",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/bg.Ce0w8fIi_14QWtU.avif",
+      "mimeType": "image/avif",
+      "sizeBytes": 10651,
+      "width": 1920,
+      "height": 758,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_927bdb12",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/milestones_bg.DE9Q6Zym_Z12WctQ.avif",
+      "filename": "milestones_bg.DE9Q6Zym_Z12WctQ.avif",
+      "localRelativePath": "assets/images/milestones_bg.DE9Q6Zym_Z12WctQ.avif",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/milestones_bg.DE9Q6Zym_Z12WctQ.avif",
+      "mimeType": "image/avif",
+      "sizeBytes": 31909,
+      "width": 882,
+      "height": 1164,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_4fb059a8",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/video_preview_desk.CcDMHWB4_Z1jA5gp.avif",
+      "filename": "video_preview_desk.CcDMHWB4_Z1jA5gp.avif",
+      "localRelativePath": "assets/images/video_preview_desk.CcDMHWB4_Z1jA5gp.avif",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/video_preview_desk.CcDMHWB4_Z1jA5gp.avif",
+      "mimeType": "image/avif",
+      "sizeBytes": 18508,
+      "width": 1280,
+      "height": 720,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_98b25040",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/hand.7luFf-nE_1bwz82.avif",
+      "filename": "hand.7luFf-nE_1bwz82.avif",
+      "localRelativePath": "assets/images/hand.7luFf-nE_1bwz82.avif",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/hand.7luFf-nE_1bwz82.avif",
+      "mimeType": "image/avif",
+      "sizeBytes": 28184,
+      "width": 696,
+      "height": 803,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_e0be3e03",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/charity_slider_2026_malaysia.COT7jBMj_N3gTs.avif",
+      "filename": "charity_slider_2026_malaysia.COT7jBMj_N3gTs.avif",
+      "localRelativePath": "assets/images/charity_slider_2026_malaysia.COT7jBMj_N3gTs.avif",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/charity_slider_2026_malaysia.COT7jBMj_N3gTs.avif",
+      "mimeType": "image/avif",
+      "sizeBytes": 27741,
+      "width": 882,
+      "height": 600,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_8d507d08",
+      "category": "icons",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/ms-flag.p_xZcjRD.svg",
+      "filename": "ms-flag.p_xZcjRD.svg",
+      "localRelativePath": "assets/icons/ms-flag.p_xZcjRD.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/icons/ms-flag.p_xZcjRD.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 1976,
+      "width": 150,
+      "height": 150,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_2cb55fb9",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/charity_slider_2026_indonesia.0kIIL-LV_Z1acjVd.avif",
+      "filename": "charity_slider_2026_indonesia.0kIIL-LV_Z1acjVd.avif",
+      "localRelativePath": "assets/images/charity_slider_2026_indonesia.0kIIL-LV_Z1acjVd.avif",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/charity_slider_2026_indonesia.0kIIL-LV_Z1acjVd.avif",
+      "mimeType": "image/avif",
+      "sizeBytes": 38602,
+      "width": 882,
+      "height": 600,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_e9f13f2c",
+      "category": "icons",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/id-flag.wGfa2f92.svg",
+      "filename": "id-flag.wGfa2f92.svg",
+      "localRelativePath": "assets/icons/id-flag.wGfa2f92.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/icons/id-flag.wGfa2f92.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 295,
+      "width": 150,
+      "height": 150,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_72d1d19c",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/charity_slider_2021_egypt_1.6MZ5eij8_1lGTr4.avif",
+      "filename": "charity_slider_2021_egypt_1.6MZ5eij8_1lGTr4.avif",
+      "localRelativePath": "assets/images/charity_slider_2021_egypt_1.6MZ5eij8_1lGTr4.avif",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/charity_slider_2021_egypt_1.6MZ5eij8_1lGTr4.avif",
+      "mimeType": "image/avif",
+      "sizeBytes": 33936,
+      "width": 882,
+      "height": 600,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_a4867da6",
+      "category": "icons",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/eg-flag.DTvPm-kk.svg",
+      "filename": "eg-flag.DTvPm-kk.svg",
+      "localRelativePath": "assets/icons/eg-flag.DTvPm-kk.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/icons/eg-flag.DTvPm-kk.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 9862,
+      "width": 150,
+      "height": 150,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_e26ad5f4",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/charity_slider_2020_vietnam_1.WW5IVsIV_1VSjXG.avif",
+      "filename": "charity_slider_2020_vietnam_1.WW5IVsIV_1VSjXG.avif",
+      "localRelativePath": "assets/images/charity_slider_2020_vietnam_1.WW5IVsIV_1VSjXG.avif",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/charity_slider_2020_vietnam_1.WW5IVsIV_1VSjXG.avif",
+      "mimeType": "image/avif",
+      "sizeBytes": 38796,
+      "width": 882,
+      "height": 600,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_9e8e9d0a",
+      "category": "icons",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/vi-flag.DAE7ZBVe.svg",
+      "filename": "vi-flag.DAE7ZBVe.svg",
+      "localRelativePath": "assets/icons/vi-flag.DAE7ZBVe.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/icons/vi-flag.DAE7ZBVe.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 504,
+      "width": 150,
+      "height": 150,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_e4670ce0",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/charity_slider_2020_vietnam_2.sVKNv9_j_Z2mpw5L.avif",
+      "filename": "charity_slider_2020_vietnam_2.sVKNv9_j_Z2mpw5L.avif",
+      "localRelativePath": "assets/images/charity_slider_2020_vietnam_2.sVKNv9_j_Z2mpw5L.avif",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/charity_slider_2020_vietnam_2.sVKNv9_j_Z2mpw5L.avif",
+      "mimeType": "image/avif",
+      "sizeBytes": 32034,
+      "width": 882,
+      "height": 600,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_b6da27c7",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/charity_slider_2021_india_1.i1d86WCK_Tyi2k.avif",
+      "filename": "charity_slider_2021_india_1.i1d86WCK_Tyi2k.avif",
+      "localRelativePath": "assets/images/charity_slider_2021_india_1.i1d86WCK_Tyi2k.avif",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/charity_slider_2021_india_1.i1d86WCK_Tyi2k.avif",
+      "mimeType": "image/avif",
+      "sizeBytes": 22091,
+      "width": 882,
+      "height": 600,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_96acdcc7",
+      "category": "icons",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/hi-flag.78zAPcop.svg",
+      "filename": "hi-flag.78zAPcop.svg",
+      "localRelativePath": "assets/icons/hi-flag.78zAPcop.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/icons/hi-flag.78zAPcop.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 1885,
+      "width": 150,
+      "height": 150,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_ff3cdc95",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/charity_slider_2021_india_2.NjeHAhVe_Z1c4w3G.avif",
+      "filename": "charity_slider_2021_india_2.NjeHAhVe_Z1c4w3G.avif",
+      "localRelativePath": "assets/images/charity_slider_2021_india_2.NjeHAhVe_Z1c4w3G.avif",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/charity_slider_2021_india_2.NjeHAhVe_Z1c4w3G.avif",
+      "mimeType": "image/avif",
+      "sizeBytes": 28743,
+      "width": 882,
+      "height": 600,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_b0f08778",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/charity_slider_2023_global_1.XCQAhzvb_ZKTDU9.avif",
+      "filename": "charity_slider_2023_global_1.XCQAhzvb_ZKTDU9.avif",
+      "localRelativePath": "assets/images/charity_slider_2023_global_1.XCQAhzvb_ZKTDU9.avif",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/charity_slider_2023_global_1.XCQAhzvb_ZKTDU9.avif",
+      "mimeType": "image/avif",
+      "sizeBytes": 33667,
+      "width": 882,
+      "height": 600,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_5f3236a8",
+      "category": "icons",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/ww-flag.vc37HCwZ.svg",
+      "filename": "ww-flag.vc37HCwZ.svg",
+      "localRelativePath": "assets/icons/ww-flag.vc37HCwZ.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/icons/ww-flag.vc37HCwZ.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 3264,
+      "width": 150,
+      "height": 150,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_eff1403f",
+      "category": "icons",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/tr-flag.CeN3DkR0.svg",
+      "filename": "tr-flag.CeN3DkR0.svg",
+      "localRelativePath": "assets/icons/tr-flag.CeN3DkR0.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/icons/tr-flag.CeN3DkR0.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 823,
+      "width": 150,
+      "height": 150,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_06da0ee6",
+      "category": "icons",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/mx-flag.R0cKn0Mz.svg",
+      "filename": "mx-flag.R0cKn0Mz.svg",
+      "localRelativePath": "assets/icons/mx-flag.R0cKn0Mz.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/icons/mx-flag.R0cKn0Mz.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 5648,
+      "width": 150,
+      "height": 150,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_eca024fd",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/img_desc-min.DJoTsjRp_Z1ugS30.avif",
+      "filename": "img_desc-min.DJoTsjRp_Z1ugS30.avif",
+      "localRelativePath": "assets/images/img_desc-min.DJoTsjRp_Z1ugS30.avif",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/img_desc-min.DJoTsjRp_Z1ugS30.avif",
+      "mimeType": "image/avif",
+      "sizeBytes": 34906,
+      "width": 1888,
+      "height": 880,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_073d7c90",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/regulation_bg_tablet.oJtBSYLo_26he99.avif",
+      "filename": "regulation_bg_tablet.oJtBSYLo_26he99.avif",
+      "localRelativePath": "assets/images/regulation_bg_tablet.oJtBSYLo_26he99.avif",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/regulation_bg_tablet.oJtBSYLo_26he99.avif",
+      "mimeType": "image/avif",
+      "sizeBytes": 29485,
+      "width": 1280,
+      "height": 667,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_eba02bd2",
+      "category": "images",
+      "originalUrl": "https://bat.bing.net/action/0?ti=343066083&tm=gtm002&Ver=2&mid=76f0a474-99ef-4015-8415-71f3d3595592&bo=2&uach=pv%3D10.0&pi=0&lg=en-US&sw=1440&sh=900&sc=24&nwd=1&tl=About%20Olymptrade%20%E2%80%93%20Trusted%20online%20broker&p=https%3A%2F%2Folymptrade.com%2Fpages%2Fabout%2F&r=&lt=1183&evt=pageLoad&sv=2&asc=D&cdb=AQAY&rn=271142",
+      "filename": "0_1.bin",
+      "localRelativePath": "assets/images/0_1.bin",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/0_1.bin",
+      "mimeType": "application/octet-stream",
+      "sizeBytes": 0,
+      "width": 0,
+      "height": 0,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_b14675f3",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-663f0c0dc8",
+      "filename": "icon_79.svg",
+      "localRelativePath": "assets/icons/icon_79.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/icons/icon_79.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 576,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_d3ca886c",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-2dd86569d6",
+      "filename": "icon_80.svg",
+      "localRelativePath": "assets/icons/icon_80.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/icons/icon_80.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 92,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_3f14b942",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/basic.SXVba757.png",
+      "filename": "basic.SXVba757.png",
+      "localRelativePath": "assets/images/basic.SXVba757.png",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/basic.SXVba757.png",
+      "mimeType": "image/png",
+      "sizeBytes": 10617,
+      "width": 132,
+      "height": 132,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/statuses"
+      ]
+    },
+    {
+      "id": "asset_9f5f4ac4",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/smart.7XaphWBD.png",
+      "filename": "smart.7XaphWBD.png",
+      "localRelativePath": "assets/images/smart.7XaphWBD.png",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/smart.7XaphWBD.png",
+      "mimeType": "image/png",
+      "sizeBytes": 13406,
+      "width": 132,
+      "height": 132,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/statuses"
+      ]
+    },
+    {
+      "id": "asset_db019d51",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/pro.BsdG9nNZ.png",
+      "filename": "pro.BsdG9nNZ.png",
+      "localRelativePath": "assets/images/pro.BsdG9nNZ.png",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/pro.BsdG9nNZ.png",
+      "mimeType": "image/png",
+      "sizeBytes": 13131,
+      "width": 120,
+      "height": 121,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/statuses"
+      ]
+    },
+    {
+      "id": "asset_03d686a4",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/elite.9x3x1cAn.png",
+      "filename": "elite.9x3x1cAn.png",
+      "localRelativePath": "assets/images/elite.9x3x1cAn.png",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/elite.9x3x1cAn.png",
+      "mimeType": "image/png",
+      "sizeBytes": 13782,
+      "width": 132,
+      "height": 132,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/statuses"
+      ]
+    },
+    {
+      "id": "asset_efeaefa4",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/profits.CF1wEaG1_Z4nFpR.avif",
+      "filename": "profits.CF1wEaG1_Z4nFpR.avif",
+      "localRelativePath": "assets/images/profits.CF1wEaG1_Z4nFpR.avif",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/profits.CF1wEaG1_Z4nFpR.avif",
+      "mimeType": "image/avif",
+      "sizeBytes": 8913,
+      "width": 467,
+      "height": 468,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/statuses"
+      ]
+    },
+    {
+      "id": "asset_984dcf11",
+      "category": "images",
+      "originalUrl": "https://bat.bing.net/action/0?ti=343066083&tm=gtm002&Ver=2&mid=c4e2806c-3c08-4f6b-951a-5b63b74f3827&bo=2&uach=pv%3D10.0&pi=0&lg=en-US&sw=1440&sh=900&sc=24&nwd=1&tl=Statuses%20%E2%80%93%20Olymptrade&p=https%3A%2F%2Folymptrade.com%2Fpages%2Ftrading%2Faccount%2Fstatuses%2F&r=&lt=3128&evt=pageLoad&sv=2&asc=D&cdb=AQAY&rn=60706",
+      "filename": "0_2.bin",
+      "localRelativePath": "assets/images/0_2.bin",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/0_2.bin",
+      "mimeType": "application/octet-stream",
+      "sizeBytes": 0,
+      "width": 0,
+      "height": 0,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/statuses"
+      ]
+    },
+    {
+      "id": "asset_1cb4b94f",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-6b4766c63e",
+      "filename": "icon_87.svg",
+      "localRelativePath": "assets/icons/icon_87.svg",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/icons/icon_87.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 100,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_88f4a935",
+      "category": "images",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/bg_desktop.mVqTcI8I_2oIruG.avif",
+      "filename": "bg_desktop.mVqTcI8I_2oIruG.avif",
+      "localRelativePath": "assets/images/bg_desktop.mVqTcI8I_2oIruG.avif",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/bg_desktop.mVqTcI8I_2oIruG.avif",
+      "mimeType": "image/avif",
+      "sizeBytes": 18968,
+      "width": 1392,
+      "height": 783,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_8f4f2268",
+      "category": "images",
+      "originalUrl": "https://bat.bing.net/action/0?ti=343066083&tm=gtm002&Ver=2&mid=fe1f4a0a-754d-4413-b07d-1806a874d600&bo=2&uach=pv%3D10.0&pi=0&lg=en-US&sw=1440&sh=900&sc=24&nwd=1&tl=Help%20center%20and%20contact%20%E2%80%93%20Olymptrade&p=https%3A%2F%2Folymptrade.com%2Fpages%2Fabout%2Fsupport%2F&r=&lt=2650&evt=pageLoad&sv=2&asc=D&cdb=AQAY&rn=634224",
+      "filename": "0_3.bin",
+      "localRelativePath": "assets/images/0_3.bin",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/images/0_3.bin",
+      "mimeType": "application/octet-stream",
+      "sizeBytes": 0,
+      "width": 0,
+      "height": 0,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_0c591623",
+      "category": "css",
+      "originalUrl": "https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap",
+      "filename": "css.css",
+      "localRelativePath": "assets/css/css.css",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/css/css.css",
+      "mimeType": "text/css",
+      "sizeBytes": 11132,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/platform"
+      ]
+    },
+    {
+      "id": "asset_9ddfad1d",
+      "category": "css",
+      "originalUrl": "https://cfcdn.olymptrade.com/v6/v0.2.42/public/style/login.cd793f75.css",
+      "filename": "login.cd793f75.css",
+      "localRelativePath": "assets/css/login.cd793f75.css",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/css/login.cd793f75.css",
+      "mimeType": "text/css",
+      "sizeBytes": 113461,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/platform"
+      ]
+    },
+    {
+      "id": "asset_fad7e3e6",
+      "category": "css",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/modules.C-pKGHad.css",
+      "filename": "modules.C-pKGHad.css",
+      "localRelativePath": "assets/css/modules.C-pKGHad.css",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/css/modules.C-pKGHad.css",
+      "mimeType": "text/css",
+      "sizeBytes": 90419,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_62327188",
+      "category": "css",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/index.BidzY7AM.css",
+      "filename": "index.BidzY7AM.css",
+      "localRelativePath": "assets/css/index.BidzY7AM.css",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/css/index.BidzY7AM.css",
+      "mimeType": "text/css",
+      "sizeBytes": 9997,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation"
+      ]
+    },
+    {
+      "id": "asset_e11448b2",
+      "category": "css",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/Layout.PAUbSCB5.css",
+      "filename": "Layout.PAUbSCB5.css",
+      "localRelativePath": "assets/css/Layout.PAUbSCB5.css",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/css/Layout.PAUbSCB5.css",
+      "mimeType": "text/css",
+      "sizeBytes": 128220,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_50bc5604",
+      "category": "css",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/authForm.DXhehnh5.css",
+      "filename": "authForm.DXhehnh5.css",
+      "localRelativePath": "assets/css/authForm.DXhehnh5.css",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/css/authForm.DXhehnh5.css",
+      "mimeType": "text/css",
+      "sizeBytes": 10294,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation",
+        "/about",
+        "/statuses",
+        "/support"
+      ]
+    },
+    {
+      "id": "asset_3e04b10e",
+      "category": "css",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/RegulationFormReact.CXV57frb.css",
+      "filename": "RegulationFormReact.CXV57frb.css",
+      "localRelativePath": "assets/css/RegulationFormReact.CXV57frb.css",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/css/RegulationFormReact.CXV57frb.css",
+      "mimeType": "text/css",
+      "sizeBytes": 5597,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/regulation"
+      ]
+    },
+    {
+      "id": "asset_891df154",
+      "category": "css",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/History.Do7WOFze.css",
+      "filename": "History.Do7WOFze.css",
+      "localRelativePath": "assets/css/History.Do7WOFze.css",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/css/History.Do7WOFze.css",
+      "mimeType": "text/css",
+      "sizeBytes": 4567,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_a065c3de",
+      "category": "css",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/index.j32ybtn6.css",
+      "filename": "index.j32ybtn6.css",
+      "localRelativePath": "assets/css/index.j32ybtn6.css",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/css/index.j32ybtn6.css",
+      "mimeType": "text/css",
+      "sizeBytes": 10169,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_b6cabd06",
+      "category": "css",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/TinySlider.9niiBZez.css",
+      "filename": "TinySlider.9niiBZez.css",
+      "localRelativePath": "assets/css/TinySlider.9niiBZez.css",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/css/TinySlider.9niiBZez.css",
+      "mimeType": "text/css",
+      "sizeBytes": 4180,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/about"
+      ]
+    },
+    {
+      "id": "asset_ce0bc71d",
+      "category": "css",
+      "originalUrl": "https://cfcdn.olymptrade.com/s6/v1.0.151/zeus/assets/StatusesTable.CUQXa_-U.css",
+      "filename": "StatusesTable.CUQXa_-U.css",
+      "localRelativePath": "assets/css/StatusesTable.CUQXa_-U.css",
+      "publicServeUrl": "/project-files/proj_1795273574137_59efde/assets/css/StatusesTable.CUQXa_-U.css",
+      "mimeType": "text/css",
+      "sizeBytes": 6104,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/statuses"
+      ]
+    }
+  ]
+}

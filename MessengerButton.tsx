@@ -1,0 +1,1 @@
+export const MessengerButton = () => (<button className="fixed bottom-4 right-4 bg-[--clone-accent] text-[--clone-accent-contrast] p-4 rounded-full shadow-[--clone-shadow-sm]" onClick={() => console.log('Opening Intercom')}>Chat</button>)
